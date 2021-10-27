@@ -1,0 +1,7 @@
+{
+  "name": "bazel-package-two",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "lshadler",
+  "license": "MIT"
+}
